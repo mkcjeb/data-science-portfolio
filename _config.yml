@@ -1,10 +1,10 @@
 ---
 header:
   image: "/images/bay area.jpg"
----
 
 title: Michelle Kae Celine Jo-anne Bantugon
 logo: /images/linkedin_headshot.JPG
 description: Aspiring Data Scientist | Engineer
 show_downloads: true
 theme: jekyll-theme-minimal
+---
